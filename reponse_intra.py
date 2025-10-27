@@ -39,7 +39,7 @@ def question_2():
 import random
 print(random.uniform(10,30))
 #choisie la réponse 26, car aucune réponse du a`l'erreur ligne 28
-(26*(3.1416/1.5))*10
+print((26*(3.1416/1.5))*10)
 import matplotlib.pyplot as plt
 plt.figure(figsize=(2,10))
 plt.plot([0,10],[26,545], "*b")
@@ -47,6 +47,7 @@ plt.plot([0,10],[26,545], "*b")
 plt.plot([0,10],[500], "r--")
 plt.grid()
 plt.show()
+#aucun résultat afficher en cause des erreur non résolu au ligne supérieur des numéro précédents.
 
 
 
