@@ -47,7 +47,7 @@ plt.plot([0,10],[26,545], "*b")
 plt.plot([0,10],[500], "r--")
 plt.grid()
 plt.show()
-#aucun résultat afficher en cause des erreur non résolu au ligne supérieur des numéro précédents.
+#aucun résultat afficher en cause des erreurs non résolus aux lignes supérieur des numéro précédents.
 
 
 
